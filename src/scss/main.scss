@@ -1,0 +1,6 @@
+$primary_color: rgb(196, 144, 10);
+$secondary_color: rgb(237, 226, 197); // Add another color for the gradient
+
+body {
+  background: linear-gradient(90deg, $primary_color, $secondary_color);
+}
